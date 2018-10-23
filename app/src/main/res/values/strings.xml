@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pz3</string>
+    <string name="first_name">Имя</string>
+    <string name="middle_name">Отчество</string>
+    <string name="personal_information">Персональная информация</string>
+    <string name="age">Возвраст</string>
+    <string name="fak">Факультет</string>
+    <string name="number_of_group">Номер группы</string>
+    <string name="last_name">Фамилия</string>
+</resources>
